@@ -1,0 +1,12 @@
+{
+    "name": "TelFox",
+    "dockerComposeFile": "../docker/docker-compose.yml",
+    "service": "roshumble",
+    "workspaceFolder": "/home/nonroot/telfox",
+    "shutdownAction": "stopCompose",
+    "customizations": {
+        "vscode": {
+            "extensions": ["ms-python.python", "ms-vscode.cpptools-extension-pack"]
+        }
+    }
+}
