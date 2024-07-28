@@ -1,0 +1,7 @@
+# Carpetas
+log/
+build/
+install/
+
+# Archivos
+.o
